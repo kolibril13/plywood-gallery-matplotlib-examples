@@ -1,0 +1,303 @@
+<ns0:svg xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:ns0="http://www.w3.org/2000/svg" xmlns:ns2="http://creativecommons.org/ns#" xmlns:ns4="http://www.w3.org/1999/xlink" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" width="460.8pt" height="345.6pt" viewBox="0 0 460.8 345.6" version="1.1">
+ <ns0:defs>
+    <ns0:filter id="dropshadow" height="1.2" width="1.2">
+      <ns0:feGaussianBlur result="blur" stdDeviation="3" />
+    </ns0:filter>
+  </ns0:defs><ns0:metadata>
+  <rdf:RDF>
+   <ns2:Work>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+    <dc:date>2023-05-19T13:52:37.944047</dc:date>
+    <dc:format>image/svg+xml</dc:format>
+    <dc:creator>
+     <ns2:Agent>
+      <dc:title>Matplotlib v3.7.1, https://matplotlib.org/</dc:title>
+     </ns2:Agent>
+    </dc:creator>
+   </ns2:Work>
+  </rdf:RDF>
+ </ns0:metadata>
+ <ns0:defs>
+  <ns0:style type="text/css">*{stroke-linejoin: round; stroke-linecap: butt}</ns0:style>
+ </ns0:defs>
+ <ns0:g id="figure_1">
+  <ns0:g id="patch_1">
+   <ns0:path d="M 0 345.6  L 460.8 345.6  L 460.8 0  L 0 0  z " style="fill: #ffffff" />
+  </ns0:g>
+  <ns0:g id="axes_1">
+   <ns0:g id="patch_2">
+    <ns0:path d="M 46.08 311.04  L 414.72 311.04  L 414.72 34.56  L 46.08 34.56  z " style="fill: #ffffff" />
+   </ns0:g>
+   <ns0:g id="Line 1_shadow" filter="url(#dropshadow)">
+    <ns0:path d="M 86.944 289.392  L 234.4 68.208  L 381.856 178.8  " clip-path="url(#pe5d270a64c)" style="fill: none; stroke: #333333; stroke-width: 5; stroke-linecap: square" />
+    <ns0:defs>
+     <ns0:path id="m87167599b3" d="M 0 5  C 1.326016 5 2.597899 4.473168 3.535534 3.535534  C 4.473168 2.597899 5 1.326016 5 0  C 5 -1.326016 4.473168 -2.597899 3.535534 -3.535534  C 2.597899 -4.473168 1.326016 -5 0 -5  C -1.326016 -5 -2.597899 -4.473168 -3.535534 -3.535534  C -4.473168 -2.597899 -5 -1.326016 -5 0  C -5 1.326016 -4.473168 2.597899 -3.535534 3.535534  C -2.597899 4.473168 -1.326016 5 0 5  z " style="stroke: #0000ff" />
+    </ns0:defs>
+    <ns0:g clip-path="url(#pe5d270a64c)">
+     <ns0:use ns4:href="#m87167599b3" x="86.944" y="289.392" style="fill: #333333; stroke: #0000ff" />
+     <ns0:use ns4:href="#m87167599b3" x="234.4" y="68.208" style="fill: #333333; stroke: #0000ff" />
+     <ns0:use ns4:href="#m87167599b3" x="381.856" y="178.8" style="fill: #333333; stroke: #0000ff" />
+    </ns0:g>
+   </ns0:g>
+   <ns0:g id="Line 2_shadow" filter="url(#dropshadow)">
+    <ns0:path d="M 86.944 178.8  L 234.4 261.744  L 381.856 123.504  " clip-path="url(#pe5d270a64c)" style="fill: none; stroke: #333333; stroke-width: 5; stroke-linecap: square" />
+    <ns0:defs>
+     <ns0:path id="m8d300a85b8" d="M -5 5  L 5 5  L 5 -5  L -5 -5  z " style="stroke: #ff0000; stroke-linejoin: miter" />
+    </ns0:defs>
+    <ns0:g clip-path="url(#pe5d270a64c)">
+     <ns0:use ns4:href="#m8d300a85b8" x="86.944" y="178.8" style="fill: #333333; stroke: #ff0000; stroke-linejoin: miter" />
+     <ns0:use ns4:href="#m8d300a85b8" x="234.4" y="261.744" style="fill: #333333; stroke: #ff0000; stroke-linejoin: miter" />
+     <ns0:use ns4:href="#m8d300a85b8" x="381.856" y="123.504" style="fill: #333333; stroke: #ff0000; stroke-linejoin: miter" />
+    </ns0:g>
+   </ns0:g>
+   <ns0:g id="matplotlib.axis_1">
+    <ns0:g id="xtick_1">
+     <ns0:g id="line2d_1">
+      <ns0:defs>
+       <ns0:path id="me3c9f1f7bd" d="M 0 0  L 0 3.5  " style="stroke: #000000; stroke-width: 0.8" />
+      </ns0:defs>
+      <ns0:g>
+       <ns0:use ns4:href="#me3c9f1f7bd" x="46.08" y="311.04" style="stroke: #000000; stroke-width: 0.8" />
+      </ns0:g>
+     </ns0:g>
+     <ns0:g id="text_1">
+      
+      <ns0:g transform="translate(38.128438 325.638437) scale(0.1 -0.1)">
+       <ns0:defs>
+        <ns0:path id="DejaVuSans-30" d="M 2034 4250  Q 1547 4250 1301 3770  Q 1056 3291 1056 2328  Q 1056 1369 1301 889  Q 1547 409 2034 409  Q 2525 409 2770 889  Q 3016 1369 3016 2328  Q 3016 3291 2770 3770  Q 2525 4250 2034 4250  z M 2034 4750  Q 2819 4750 3233 4129  Q 3647 3509 3647 2328  Q 3647 1150 3233 529  Q 2819 -91 2034 -91  Q 1250 -91 836 529  Q 422 1150 422 2328  Q 422 3509 836 4129  Q 1250 4750 2034 4750  z " transform="scale(0.015625)" />
+        <ns0:path id="DejaVuSans-2e" d="M 684 794  L 1344 794  L 1344 0  L 684 0  L 684 794  z " transform="scale(0.015625)" />
+       </ns0:defs>
+       <ns0:use ns4:href="#DejaVuSans-30" />
+       <ns0:use ns4:href="#DejaVuSans-2e" x="63.623047" />
+       <ns0:use ns4:href="#DejaVuSans-30" x="95.410156" />
+      </ns0:g>
+     </ns0:g>
+    </ns0:g>
+    <ns0:g id="xtick_2">
+     <ns0:g id="line2d_2">
+      <ns0:g>
+       <ns0:use ns4:href="#me3c9f1f7bd" x="119.808" y="311.04" style="stroke: #000000; stroke-width: 0.8" />
+      </ns0:g>
+     </ns0:g>
+     <ns0:g id="text_2">
+      
+      <ns0:g transform="translate(111.856438 325.638437) scale(0.1 -0.1)">
+       <ns0:defs>
+        <ns0:path id="DejaVuSans-32" d="M 1228 531  L 3431 531  L 3431 0  L 469 0  L 469 531  Q 828 903 1448 1529  Q 2069 2156 2228 2338  Q 2531 2678 2651 2914  Q 2772 3150 2772 3378  Q 2772 3750 2511 3984  Q 2250 4219 1831 4219  Q 1534 4219 1204 4116  Q 875 4013 500 3803  L 500 4441  Q 881 4594 1212 4672  Q 1544 4750 1819 4750  Q 2544 4750 2975 4387  Q 3406 4025 3406 3419  Q 3406 3131 3298 2873  Q 3191 2616 2906 2266  Q 2828 2175 2409 1742  Q 1991 1309 1228 531  z " transform="scale(0.015625)" />
+       </ns0:defs>
+       <ns0:use ns4:href="#DejaVuSans-30" />
+       <ns0:use ns4:href="#DejaVuSans-2e" x="63.623047" />
+       <ns0:use ns4:href="#DejaVuSans-32" x="95.410156" />
+      </ns0:g>
+     </ns0:g>
+    </ns0:g>
+    <ns0:g id="xtick_3">
+     <ns0:g id="line2d_3">
+      <ns0:g>
+       <ns0:use ns4:href="#me3c9f1f7bd" x="193.536" y="311.04" style="stroke: #000000; stroke-width: 0.8" />
+      </ns0:g>
+     </ns0:g>
+     <ns0:g id="text_3">
+      
+      <ns0:g transform="translate(185.584438 325.638437) scale(0.1 -0.1)">
+       <ns0:defs>
+        <ns0:path id="DejaVuSans-34" d="M 2419 4116  L 825 1625  L 2419 1625  L 2419 4116  z M 2253 4666  L 3047 4666  L 3047 1625  L 3713 1625  L 3713 1100  L 3047 1100  L 3047 0  L 2419 0  L 2419 1100  L 313 1100  L 313 1709  L 2253 4666  z " transform="scale(0.015625)" />
+       </ns0:defs>
+       <ns0:use ns4:href="#DejaVuSans-30" />
+       <ns0:use ns4:href="#DejaVuSans-2e" x="63.623047" />
+       <ns0:use ns4:href="#DejaVuSans-34" x="95.410156" />
+      </ns0:g>
+     </ns0:g>
+    </ns0:g>
+    <ns0:g id="xtick_4">
+     <ns0:g id="line2d_4">
+      <ns0:g>
+       <ns0:use ns4:href="#me3c9f1f7bd" x="267.264" y="311.04" style="stroke: #000000; stroke-width: 0.8" />
+      </ns0:g>
+     </ns0:g>
+     <ns0:g id="text_4">
+      
+      <ns0:g transform="translate(259.312438 325.638437) scale(0.1 -0.1)">
+       <ns0:defs>
+        <ns0:path id="DejaVuSans-36" d="M 2113 2584  Q 1688 2584 1439 2293  Q 1191 2003 1191 1497  Q 1191 994 1439 701  Q 1688 409 2113 409  Q 2538 409 2786 701  Q 3034 994 3034 1497  Q 3034 2003 2786 2293  Q 2538 2584 2113 2584  z M 3366 4563  L 3366 3988  Q 3128 4100 2886 4159  Q 2644 4219 2406 4219  Q 1781 4219 1451 3797  Q 1122 3375 1075 2522  Q 1259 2794 1537 2939  Q 1816 3084 2150 3084  Q 2853 3084 3261 2657  Q 3669 2231 3669 1497  Q 3669 778 3244 343  Q 2819 -91 2113 -91  Q 1303 -91 875 529  Q 447 1150 447 2328  Q 447 3434 972 4092  Q 1497 4750 2381 4750  Q 2619 4750 2861 4703  Q 3103 4656 3366 4563  z " transform="scale(0.015625)" />
+       </ns0:defs>
+       <ns0:use ns4:href="#DejaVuSans-30" />
+       <ns0:use ns4:href="#DejaVuSans-2e" x="63.623047" />
+       <ns0:use ns4:href="#DejaVuSans-36" x="95.410156" />
+      </ns0:g>
+     </ns0:g>
+    </ns0:g>
+    <ns0:g id="xtick_5">
+     <ns0:g id="line2d_5">
+      <ns0:g>
+       <ns0:use ns4:href="#me3c9f1f7bd" x="340.992" y="311.04" style="stroke: #000000; stroke-width: 0.8" />
+      </ns0:g>
+     </ns0:g>
+     <ns0:g id="text_5">
+      
+      <ns0:g transform="translate(333.040437 325.638437) scale(0.1 -0.1)">
+       <ns0:defs>
+        <ns0:path id="DejaVuSans-38" d="M 2034 2216  Q 1584 2216 1326 1975  Q 1069 1734 1069 1313  Q 1069 891 1326 650  Q 1584 409 2034 409  Q 2484 409 2743 651  Q 3003 894 3003 1313  Q 3003 1734 2745 1975  Q 2488 2216 2034 2216  z M 1403 2484  Q 997 2584 770 2862  Q 544 3141 544 3541  Q 544 4100 942 4425  Q 1341 4750 2034 4750  Q 2731 4750 3128 4425  Q 3525 4100 3525 3541  Q 3525 3141 3298 2862  Q 3072 2584 2669 2484  Q 3125 2378 3379 2068  Q 3634 1759 3634 1313  Q 3634 634 3220 271  Q 2806 -91 2034 -91  Q 1263 -91 848 271  Q 434 634 434 1313  Q 434 1759 690 2068  Q 947 2378 1403 2484  z M 1172 3481  Q 1172 3119 1398 2916  Q 1625 2713 2034 2713  Q 2441 2713 2670 2916  Q 2900 3119 2900 3481  Q 2900 3844 2670 4047  Q 2441 4250 2034 4250  Q 1625 4250 1398 4047  Q 1172 3844 1172 3481  z " transform="scale(0.015625)" />
+       </ns0:defs>
+       <ns0:use ns4:href="#DejaVuSans-30" />
+       <ns0:use ns4:href="#DejaVuSans-2e" x="63.623047" />
+       <ns0:use ns4:href="#DejaVuSans-38" x="95.410156" />
+      </ns0:g>
+     </ns0:g>
+    </ns0:g>
+    <ns0:g id="xtick_6">
+     <ns0:g id="line2d_6">
+      <ns0:g>
+       <ns0:use ns4:href="#me3c9f1f7bd" x="414.72" y="311.04" style="stroke: #000000; stroke-width: 0.8" />
+      </ns0:g>
+     </ns0:g>
+     <ns0:g id="text_6">
+      
+      <ns0:g transform="translate(406.768438 325.638437) scale(0.1 -0.1)">
+       <ns0:defs>
+        <ns0:path id="DejaVuSans-31" d="M 794 531  L 1825 531  L 1825 4091  L 703 3866  L 703 4441  L 1819 4666  L 2450 4666  L 2450 531  L 3481 531  L 3481 0  L 794 0  L 794 531  z " transform="scale(0.015625)" />
+       </ns0:defs>
+       <ns0:use ns4:href="#DejaVuSans-31" />
+       <ns0:use ns4:href="#DejaVuSans-2e" x="63.623047" />
+       <ns0:use ns4:href="#DejaVuSans-30" x="95.410156" />
+      </ns0:g>
+     </ns0:g>
+    </ns0:g>
+   </ns0:g>
+   <ns0:g id="matplotlib.axis_2">
+    <ns0:g id="ytick_1">
+     <ns0:g id="line2d_7">
+      <ns0:defs>
+       <ns0:path id="m0141073c86" d="M 0 0  L -3.5 0  " style="stroke: #000000; stroke-width: 0.8" />
+      </ns0:defs>
+      <ns0:g>
+       <ns0:use ns4:href="#m0141073c86" x="46.08" y="311.04" style="stroke: #000000; stroke-width: 0.8" />
+      </ns0:g>
+     </ns0:g>
+     <ns0:g id="text_7">
+      
+      <ns0:g transform="translate(23.176875 314.839219) scale(0.1 -0.1)">
+       <ns0:use ns4:href="#DejaVuSans-30" />
+       <ns0:use ns4:href="#DejaVuSans-2e" x="63.623047" />
+       <ns0:use ns4:href="#DejaVuSans-30" x="95.410156" />
+      </ns0:g>
+     </ns0:g>
+    </ns0:g>
+    <ns0:g id="ytick_2">
+     <ns0:g id="line2d_8">
+      <ns0:g>
+       <ns0:use ns4:href="#m0141073c86" x="46.08" y="255.744" style="stroke: #000000; stroke-width: 0.8" />
+      </ns0:g>
+     </ns0:g>
+     <ns0:g id="text_8">
+      
+      <ns0:g transform="translate(23.176875 259.543219) scale(0.1 -0.1)">
+       <ns0:use ns4:href="#DejaVuSans-30" />
+       <ns0:use ns4:href="#DejaVuSans-2e" x="63.623047" />
+       <ns0:use ns4:href="#DejaVuSans-32" x="95.410156" />
+      </ns0:g>
+     </ns0:g>
+    </ns0:g>
+    <ns0:g id="ytick_3">
+     <ns0:g id="line2d_9">
+      <ns0:g>
+       <ns0:use ns4:href="#m0141073c86" x="46.08" y="200.448" style="stroke: #000000; stroke-width: 0.8" />
+      </ns0:g>
+     </ns0:g>
+     <ns0:g id="text_9">
+      
+      <ns0:g transform="translate(23.176875 204.247219) scale(0.1 -0.1)">
+       <ns0:use ns4:href="#DejaVuSans-30" />
+       <ns0:use ns4:href="#DejaVuSans-2e" x="63.623047" />
+       <ns0:use ns4:href="#DejaVuSans-34" x="95.410156" />
+      </ns0:g>
+     </ns0:g>
+    </ns0:g>
+    <ns0:g id="ytick_4">
+     <ns0:g id="line2d_10">
+      <ns0:g>
+       <ns0:use ns4:href="#m0141073c86" x="46.08" y="145.152" style="stroke: #000000; stroke-width: 0.8" />
+      </ns0:g>
+     </ns0:g>
+     <ns0:g id="text_10">
+      
+      <ns0:g transform="translate(23.176875 148.951219) scale(0.1 -0.1)">
+       <ns0:use ns4:href="#DejaVuSans-30" />
+       <ns0:use ns4:href="#DejaVuSans-2e" x="63.623047" />
+       <ns0:use ns4:href="#DejaVuSans-36" x="95.410156" />
+      </ns0:g>
+     </ns0:g>
+    </ns0:g>
+    <ns0:g id="ytick_5">
+     <ns0:g id="line2d_11">
+      <ns0:g>
+       <ns0:use ns4:href="#m0141073c86" x="46.08" y="89.856" style="stroke: #000000; stroke-width: 0.8" />
+      </ns0:g>
+     </ns0:g>
+     <ns0:g id="text_11">
+      
+      <ns0:g transform="translate(23.176875 93.655219) scale(0.1 -0.1)">
+       <ns0:use ns4:href="#DejaVuSans-30" />
+       <ns0:use ns4:href="#DejaVuSans-2e" x="63.623047" />
+       <ns0:use ns4:href="#DejaVuSans-38" x="95.410156" />
+      </ns0:g>
+     </ns0:g>
+    </ns0:g>
+    <ns0:g id="ytick_6">
+     <ns0:g id="line2d_12">
+      <ns0:g>
+       <ns0:use ns4:href="#m0141073c86" x="46.08" y="34.56" style="stroke: #000000; stroke-width: 0.8" />
+      </ns0:g>
+     </ns0:g>
+     <ns0:g id="text_12">
+      
+      <ns0:g transform="translate(23.176875 38.359219) scale(0.1 -0.1)">
+       <ns0:use ns4:href="#DejaVuSans-31" />
+       <ns0:use ns4:href="#DejaVuSans-2e" x="63.623047" />
+       <ns0:use ns4:href="#DejaVuSans-30" x="95.410156" />
+      </ns0:g>
+     </ns0:g>
+    </ns0:g>
+   </ns0:g>
+   <ns0:g id="line2d_13">
+    <ns0:path d="M 82.944 283.392  L 230.4 62.208  L 377.856 172.8  " clip-path="url(#pe5d270a64c)" style="fill: none; stroke: #0000ff; stroke-width: 5; stroke-linecap: square" />
+    <ns0:defs>
+     <ns0:path id="mc1ebea4db0" d="M 0 5  C 1.326016 5 2.597899 4.473168 3.535534 3.535534  C 4.473168 2.597899 5 1.326016 5 0  C 5 -1.326016 4.473168 -2.597899 3.535534 -3.535534  C 2.597899 -4.473168 1.326016 -5 0 -5  C -1.326016 -5 -2.597899 -4.473168 -3.535534 -3.535534  C -4.473168 -2.597899 -5 -1.326016 -5 0  C -5 1.326016 -4.473168 2.597899 -3.535534 3.535534  C -2.597899 4.473168 -1.326016 5 0 5  z " style="stroke: #0000ff" />
+    </ns0:defs>
+    <ns0:g clip-path="url(#pe5d270a64c)">
+     <ns0:use ns4:href="#mc1ebea4db0" x="82.944" y="283.392" style="fill: #0000ff; stroke: #0000ff" />
+     <ns0:use ns4:href="#mc1ebea4db0" x="230.4" y="62.208" style="fill: #0000ff; stroke: #0000ff" />
+     <ns0:use ns4:href="#mc1ebea4db0" x="377.856" y="172.8" style="fill: #0000ff; stroke: #0000ff" />
+    </ns0:g>
+   </ns0:g>
+   <ns0:g id="line2d_14">
+    <ns0:path d="M 82.944 172.8  L 230.4 255.744  L 377.856 117.504  " clip-path="url(#pe5d270a64c)" style="fill: none; stroke: #ff0000; stroke-width: 5; stroke-linecap: square" />
+    <ns0:defs>
+     <ns0:path id="m21108008e3" d="M -5 5  L 5 5  L 5 -5  L -5 -5  z " style="stroke: #ff0000; stroke-linejoin: miter" />
+    </ns0:defs>
+    <ns0:g clip-path="url(#pe5d270a64c)">
+     <ns0:use ns4:href="#m21108008e3" x="82.944" y="172.8" style="fill: #ff0000; stroke: #ff0000; stroke-linejoin: miter" />
+     <ns0:use ns4:href="#m21108008e3" x="230.4" y="255.744" style="fill: #ff0000; stroke: #ff0000; stroke-linejoin: miter" />
+     <ns0:use ns4:href="#m21108008e3" x="377.856" y="117.504" style="fill: #ff0000; stroke: #ff0000; stroke-linejoin: miter" />
+    </ns0:g>
+   </ns0:g>
+   <ns0:g id="patch_3">
+    <ns0:path d="M 46.08 311.04  L 46.08 34.56  " style="fill: none; stroke: #000000; stroke-width: 0.8; stroke-linejoin: miter; stroke-linecap: square" />
+   </ns0:g>
+   <ns0:g id="patch_4">
+    <ns0:path d="M 414.72 311.04  L 414.72 34.56  " style="fill: none; stroke: #000000; stroke-width: 0.8; stroke-linejoin: miter; stroke-linecap: square" />
+   </ns0:g>
+   <ns0:g id="patch_5">
+    <ns0:path d="M 46.08 311.04  L 414.72 311.04  " style="fill: none; stroke: #000000; stroke-width: 0.8; stroke-linejoin: miter; stroke-linecap: square" />
+   </ns0:g>
+   <ns0:g id="patch_6">
+    <ns0:path d="M 46.08 34.56  L 414.72 34.56  " style="fill: none; stroke: #000000; stroke-width: 0.8; stroke-linejoin: miter; stroke-linecap: square" />
+   </ns0:g>
+  </ns0:g>
+ </ns0:g>
+ <ns0:defs>
+  <ns0:clipPath id="pe5d270a64c">
+   <ns0:rect x="46.08" y="34.56" width="368.64" height="276.48" />
+  </ns0:clipPath>
+ </ns0:defs>
+</ns0:svg>

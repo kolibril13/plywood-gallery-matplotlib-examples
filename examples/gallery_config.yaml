@@ -1,0 +1,8 @@
+project_name: Matplotlib Gallery
+repository_url: https://github.com/kolibril13/plywood-gallery-matplotlib-example
+user_content_version:  0.0.1
+description: |
+   Cheat sheet made with https://github.com/kolibril13/plywood-gallery
+favicon: icon.png # prefered resolution : 48x48 pixel
+preview_image: https://kolibril13.github.io/plywood-gallery-minimal-example/preview_image.png # prefered resolution 600x315, must be an url
+gallery_parameters_path: gallery_assets/gallery_parameters.json
