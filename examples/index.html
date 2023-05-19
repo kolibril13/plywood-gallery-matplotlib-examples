@@ -353,13 +353,6 @@
                         </td>
                     </tr>
                     <tr>
-                        <td>
-                            <div>
-                                <input type="search" id="search" autocomplete="off" data-search>
-                            </div>
-                        </td>
-                    </tr>
-                    <tr>
                         <td class="info_info_icon">
                             <div class="tooltip">
                                 <div class="infologo">
@@ -461,7 +454,7 @@
             const isVisible = pw_entry.codesnip.toLowerCase().includes(value)
             console.log(isVisible)
             if (!isVisible) {
-                pw_entry.img.style = "opacity:0.1";
+                pw_entry.img.style ="display: none;"
             }
             if (isVisible) {
                 pw_entry.img.style = pw_entry.img.ref_style;
